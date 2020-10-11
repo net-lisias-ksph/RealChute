@@ -1,5 +1,10 @@
 # Real Chute :: Change Log
 
+* 2016-0420: 1.4 (stupid_chris) for KSP 1.1
+	+ v1.4 - April 19th 2016
+		- Removed IPartSizeModifier support (no longer needed)
+		- Added search tags to parts
+		- Compiled for the latest version of KSP 1.1
 * 2016-0416: 1.4x4 (stupid_chris) for KSP 1.0.5 PRE-RELEASE
 	+ April 16th 2016
 		- Prerelease_
