@@ -1,5 +1,13 @@
 # Real Chute :: Change Log
 
+* 2020-0801: 1.4.8 (stupid_chris) for KSP 1.10.1
+	+ Recompiled for KSP 1.10.1
+	+ Added DragCube handling for different sizes and when the cap is blown off
+	+ Parachutes smoothly move towards the drag vector rather than instantly
+	+ Parachutes now look for both horizontal and vertical velocities before cutting
+	+ Fixed issue where parachutes would sometimes break due to aero forces underwater
+	+ Compatibility back to KSP 1.8 has been enabled
+	+ Legacy MM patches removed
 * 2020-0318: 1.4.7.6 (stupid_chris) for KSP 1.9
 	+ Recompiled and updated for KSP 1.9
 * 2019-1016: 1.4.7.5 (stupid_chris) for KSP 1.8
