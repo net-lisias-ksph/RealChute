@@ -1,5 +1,11 @@
 # Real Chute :: Change Log
 
+* 2017-1130: 1.4.5 (stupid_chris) for KSP 1.3.1
+	+ November 30th 2017
+		- Compatibility for KSP 1.3.1
+		- Fixed issue with editor window
+		- Implemented increments for in flight window sliders
+		- Solution-wise code cleanup/optimizations
 * 2017-0601: 1.4.4 (stupid_chris) for KSP 1.3.0
 	+ June 1st 2017
 			- RealChute 1.3 compatibility update
