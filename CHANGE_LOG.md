@@ -1,5 +1,11 @@
 # Real Chute :: Change Log
 
+* 2016-1014: 1.4.1.2 (stupid_chris) for KSP 1.2
+	+ KSP 1.2 compatibility update
+		- Use part.addForceAtPosition instead of calling rigidbody functions (1.2 specific compatibility changes)
+		- Updated versioning in RealChute.version and assembly property files
+		- Fixed mispelled field name in compatibility checker (_version)
+		- Fixed toolbar button showing up in Flight. (broke in 1.2)
 * 2016-0430: 1.4.1.1 (stupid_chris) for KSP 1.1.2
 	+ April 30th 2016
 		- Recompiled for KSP 1.1.2 to prevent nasty PopupDialog exceptions
