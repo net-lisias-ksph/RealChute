@@ -1,5 +1,7 @@
 # Real Chute :: Change Log
 
+* 2019-1016: 1.4.7.5 (stupid_chris) for KSP 1.8
+	+ Recompiled and updated for KSP 1.8
 * 2019-0413: 1.4.7.4 (stupid_chris) for KSP 1.7
 	+ Recompiled for KSP 1.7
 * 2019-0127: 1.4.7.3 (stupid_chris) for KSP 1.6
