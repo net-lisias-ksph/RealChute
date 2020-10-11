@@ -1,5 +1,7 @@
 # Real Chute :: Change Log
 
+* 2018-1221: 1.4.7.2 (stupid_chris) for KSP 1.6
+	+ Recompiled for KSP 1.6
 * 2018-1016: 1.4.7.1 (stupid_chris) for KSP 1.5
 	+ Recompiled for KSP 1.5
 * 2018-1015: 1.4.7 (stupid_chris) for KSP 1.4.5 Localization Issue
