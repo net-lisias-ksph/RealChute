@@ -1,5 +1,7 @@
 # Real Chute :: Change Log
 
+* 2018-1015: 1.4.7 (stupid_chris) for KSP 1.4.5 Localization Issue
+	+ Fix for parachute category and parachutes disappearing from VAB in non-english localization installs.
 * 2018-0825: 1.4.6.1 (stupid_chris) for KSP 1.4.5
 	+ August 25th 2018
 		- Recompiled for KSP 1.4.5
