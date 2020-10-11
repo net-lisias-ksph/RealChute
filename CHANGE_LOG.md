@@ -1,5 +1,8 @@
 # Real Chute :: Change Log
 
+* 2016-0430: 1.4.1.1 (stupid_chris) for KSP 1.1.2
+	+ April 30th 2016
+		- Recompiled for KSP 1.1.2 to prevent nasty PopupDialog exceptions
 * 2016-0429: 1.4.1 (stupid_chris) for KSP 1.1.2
 	+ April 29th 2016
 		- Fixed bug related to reloading the database through ModuleManager
