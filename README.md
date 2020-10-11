@@ -38,4 +38,6 @@ By using this repository without the required pre-requisites, I hold you liable 
 
 * [stupid_chris](https://forum.kerbalspaceprogram.com/index.php?/profile/62017-stupid_chris/)
 	- [KSP Forum](https://forum.kerbalspaceprogram.com/index.php?/topic/52931-*/)
+	- [SpaceDock](https://spacedock.info/mod/384/RealChute%20Parachute%20System)
 	- [Github](https://github.com/ChrisViral/RealChute)
+	- [Imgur](https://imgur.com/a/ZAdhz/)
