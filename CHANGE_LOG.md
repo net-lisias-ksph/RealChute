@@ -1,5 +1,10 @@
 # Real Chute :: Change Log
 
+* 2016-0429: 1.4.1 (stupid_chris) for KSP 1.1.2
+	+ April 29th 2016
+		- Fixed bug related to reloading the database through ModuleManager
+		- Added an OnActive override, potentially fixing a few contract oddities
+		- Removed deprecated MM configs
 * 2016-0420: 1.4 (stupid_chris) for KSP 1.1
 	+ v1.4 - April 19th 2016
 		- Removed IPartSizeModifier support (no longer needed)
