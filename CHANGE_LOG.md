@@ -1,5 +1,7 @@
 # Real Chute :: Change Log
 
+* 2019-0127: 1.4.7.3 (stupid_chris) for KSP 1.6
+	+ Fix for advanced inventory cross sectional bug. (Adds missing bulkheadProfiles field)
 * 2018-1221: 1.4.7.2 (stupid_chris) for KSP 1.6
 	+ Recompiled for KSP 1.6
 * 2018-1016: 1.4.7.1 (stupid_chris) for KSP 1.5
