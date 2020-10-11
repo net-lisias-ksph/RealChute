@@ -1,5 +1,8 @@
 # Real Chute :: Change Log
 
+* 2018-0825: 1.4.6.1 (stupid_chris) for KSP 1.4.5
+	+ August 25th 2018
+		- Recompiled for KSP 1.4.5
 * 2018-0320: 1.4.6 (stupid_chris) for KSP 1.4.1
 	+ Recompiled for KSP 1.4.1
 	+ Has been tested to run on KSP 1.4.0 with no issues detected.
