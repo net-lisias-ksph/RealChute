@@ -1,5 +1,12 @@
 # Real Chute :: Change Log
 
+* 2017-0601: 1.4.4 (stupid_chris) for KSP 1.3.0
+	+ June 1st 2017
+			- RealChute 1.3 compatibility update
+			- Recompiled and fixed missing parameters
+			- Updated to CompatibilityChecker 6
+			- Fixed custom filters not showing in the editor
+			- Fixed settings button appearing in flight
 * 2017-0429: 1.4.3.0 (stupid_chris) for KSP 1.2
 	+ Removed FAR support: Per discussion with ferram4, it is not necessary to use FAR's methods to get density and there's no real benefit to doing so over stock methods for retrieving density.
 * 2017-0325: 1.4.2.0 (stupid_chris) for KSP 1.2
